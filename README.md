@@ -68,7 +68,7 @@ java App.class
 
 ### Warning
 
-** Copyright (c) by Mayank . All Right Reserved **
+-- Copyright (c) by Mayank . All Right Reserved --
 
 __" Please refrain from unauthorized coping or downloading of content, as such actions are subject to legal consequences and potential charges.We encourage respectful and responsible use of the resouces provided for learning purpose."__
 
